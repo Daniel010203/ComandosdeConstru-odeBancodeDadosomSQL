@@ -1,0 +1,5 @@
+DATABASE;
+CREATE TABLE first_exemple;
+USE first_exemple;
+CREATE TABLE person(
+person_id smallint unsigned,
